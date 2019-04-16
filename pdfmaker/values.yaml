@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: nginx
-  tag: stable
+  repository: missionio/pdfmaker
+  tag: latest
   pullPolicy: IfNotPresent
 
 nameOverride: ""
@@ -23,7 +23,7 @@ ingress:
     # kubernetes.io/tls-acme: "true"
   path: /
   hosts:
-    - chart-example.local
+    - pdf-maker.local
   tls: []
   #  - secretName: chart-example-tls
   #    hosts:

@@ -3,11 +3,11 @@ entries:
   pdfmaker:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-15T20:22:41.918664+05:30
+    created: 2019-04-16T23:41:32.644281+05:30
     description: A Helm chart for Kubernetes
-    digest: d61b8ad6e511591f65b801f4a632f6e498d1302259eef6e9185d39d203749a3b
+    digest: b80914dabff51ea1ee64ca931cb1b308442074a3e371a51b00ae58cdd371d593
     name: pdfmaker
     urls:
-    - pdfmaker-0.1.0.tgz
-    version: 0.1.0
-generated: 2019-04-15T20:22:41.918167+05:30
+    - pdfmaker-0.0.1.tgz
+    version: 0.0.1
+generated: 2019-04-16T23:41:32.643758+05:30
