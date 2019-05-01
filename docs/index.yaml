@@ -3,11 +3,14 @@ entries:
   pdfmaker:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-16T23:41:32.644281+05:30
-    description: A Helm chart for Kubernetes
-    digest: b80914dabff51ea1ee64ca931cb1b308442074a3e371a51b00ae58cdd371d593
+    created: 2019-05-01T19:42:32.653758+05:30
+    description: Pdf generator api created by puppeteer
+    digest: db53194e46e3362270804a2fe9a9392a316fc32030283b9e3a349d5d8f01a26b
+    maintainers:
+    - email: mission.io.2017@gmail.com
+      name: mission.io
     name: pdfmaker
     urls:
     - pdfmaker-0.0.1.tgz
     version: 0.0.1
-generated: 2019-04-16T23:41:32.643758+05:30
+generated: 2019-05-01T19:42:32.653121+05:30

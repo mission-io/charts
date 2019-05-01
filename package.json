@@ -1,0 +1,26 @@
+{
+  "name": "charts",
+  "version": "1.0.0",
+  "description": "Helm charts for mission.io modules",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mission-io/charts.git"
+  },
+  "author": {
+    "name": "Natarajan Ganapathi",
+    "email": "natarajanmca11@gmail.com",
+    "url": "http://www.linkedin.com/in/natarajanganapathi"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mission-io/charts/issues"
+  },
+  "homepage": "https://github.com/mission-io/charts#readme"
+}

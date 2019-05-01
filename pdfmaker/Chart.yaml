@@ -1,5 +1,8 @@
 apiVersion: v1
 appVersion: "1.0"
-description: A Helm chart for Kubernetes
+description: Pdf generator api created by puppeteer
 name: pdfmaker
 version: 0.0.1
+maintainers:
+- name: mission.io
+  email: mission.io.2017@gmail.com
